@@ -1,4 +1,4 @@
-# Palindrome
+# is_palindrome 
 
 TODO: Write a gem description
 
