@@ -1,6 +1,6 @@
 # is_palindrome 
 
-TODO: Write a gem description
+Checks if a string is a palindrome
 
 ## Installation
 
@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run
+ 
+    $ palindrome <string>
+
+to check if the string is a palindrome. (Returns true or false)
 
 ## Contributing
 
