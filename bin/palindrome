@@ -5,5 +5,6 @@ require 'palindrome'
 if ARGV.length != 1 
   puts "Please only one string"
 else
-  Palindrome.is_palindrome? ARGV[0]
+  string_arg = Palindrome::Palindrome.new(ARGV[0])
+  puts string_arg.is_palindrome?.to_s
 end
